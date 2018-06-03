@@ -11,9 +11,10 @@ body {
 }
 
 #header {
-  width: 100%;
+  width: 800px;
   height: 100px;
   background-color: #333333;
+  position: relative;
   background: -webkit-linear-gradient(#000000, #999999);
   background: -o-linear-gradient(#000000, #999999);
   background: -moz-linear-gradient(#000000, #999999);
@@ -23,7 +24,7 @@ body {
 #header .header-logo {
   width: 150px;
   height: 150px;
-  position:absolute;
+  position: absolute;
   right: 200px;
 }
 
